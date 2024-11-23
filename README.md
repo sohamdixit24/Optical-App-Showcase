@@ -54,4 +54,4 @@ As a **Software Developer**, I:
 
 Download **Imprint Optic Universe** today and experience the future of lens selection!
 
-[![Download on Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.prodt.metroplex.imprintoptics)
+[![Download on Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.prodt.gkboptics&hl=en_IN)
